@@ -14,6 +14,7 @@ public class FireFoxTest {
 		driver.get("/http://chromedriver.storage.googleapis.com/index.html?path=2.30/");
 		System.out.println("Hi");
 		System.out.println("Heeeeloo");
+		System.out.println("Changed from Git Hub");
 		Thread.sleep(3000);
 			driver.close();
 
